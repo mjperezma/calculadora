@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto Mono',
+        monospace;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+
+    text-align: center;
+    padding-top: 1rem;
+}
+
+
+.container {
+    background-color: rgb(175, 163, 163);
+    width: 40rem;
+}
+
+.container>input {
+
+    width: 10rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+
+.container>button {
+
+    width: 3rem;
+    padding: 1rem;
+    margin: 1rem;
+    border: none;
+    border: 0.1rem solid black;
+    border-radius: 1rem;
+    background-color: rgb(184, 161, 206);
+}
